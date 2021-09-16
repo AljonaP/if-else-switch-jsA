@@ -4,6 +4,7 @@
 
 const equalNumbers = 2 === 2;
 console.log('Is 2 gelijk aan 2?', equalNumbers);
+//Aljona
 
 // ==========================================
 // 1. Declareer een variabele en sla daar de uitkomst van de vergelijking "Is 10 groter dan 20?" in op        // geeft false wanneer gelogd
